@@ -1,5 +1,4 @@
 Vue 3 Task Manager & Vue vs React Tutorial
-2026-4-19
 
 This project demonstrates my ability to learn and apply a new web technology outside lectures.I chose Vue 3 as the alternative frontend framework to compare with React (the focus of this course).
 This submission includes:

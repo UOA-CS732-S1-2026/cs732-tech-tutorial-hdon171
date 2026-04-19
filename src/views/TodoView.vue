@@ -138,7 +138,7 @@ const filterLabels = {
 
 const emptyMessage = computed(() => {
   if (taskStore.filter === 'active') {
-    return 'All tasks completed'
+    return 'No active tasks'
   } else if (taskStore.filter === 'completed') {
     return 'No completed tasks'
   }

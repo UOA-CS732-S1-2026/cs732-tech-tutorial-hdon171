@@ -1,0 +1,19 @@
+{
+  "name": "my-vue-tutorial",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.4"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.6",
+    "pinia": "^3.0.4",
+    "vue-router": "^5.0.4"
+  }
+}
